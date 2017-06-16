@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.box_2 {
+}
 .box_3 {
 }
 ._图片 {
@@ -51,6 +53,10 @@
   text-align:left;
 }
 ._文本段落 {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
   text-align:left;
 }
 ._自由编辑 {
