@@ -99,8 +99,8 @@
 }
 #u7 {
   position:absolute;
-  left:526px;
-  top:683px;
+  left:385px;
+  top:843px;
   width:418px;
   height:42px;
   font-family:'Arial Negreta', 'Arial';
@@ -233,7 +233,7 @@
 }
 #u18 {
   position:fixed;
-  right:5px;
+  left:0px;
   top:50%;
   margin-top:-72.5px;
 }
